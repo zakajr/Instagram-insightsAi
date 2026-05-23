@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Reels Trend & Category Intelligence Platform",
+  "description": "Analyze regional Instagram Reels datasets to automatically classify topics, detect viral trends, rank engagement metrics, and generate AI synthesis reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
